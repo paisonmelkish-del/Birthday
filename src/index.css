@@ -1,0 +1,9 @@
+/* src/index.css - Tailwind entrypoint (required) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global small overrides below */
+html, body, #root {
+  height: 100%;
+}
